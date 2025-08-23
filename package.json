@@ -1,0 +1,24 @@
+{
+  "name": "grabatus.com",
+  "version": "1.0.0",
+  "description": "The frontend to grabatus build with Next.js and TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+      "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolphomacedo/grabatus.com.git"
+  },
+  "author": "Rodolpho Macedo dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodolphomacedo/grabatus.com/issues"
+  },
+  "homepage": "https://github.com/rodolphomacedo/grabatus.com#readme",
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
