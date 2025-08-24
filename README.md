@@ -1,3 +1,5 @@
-# The frontend of the grabatus.com
+# O frontend da grabatus.com
 
-The frontend to grabatus build with Next.js and TailwindCSS
+ Baseado no curso.dev
+
+O frontend da grabatus.com construído com Next.js e TailwindCSS
